@@ -1,5 +1,5 @@
 <?php
-require 'classes.php'; // Certifique-se de que o autoload do Composer está configurado corretamente
+require 'classes.php'; 
 
 use App\Model\Heroi;
 use App\Model\Arma;
